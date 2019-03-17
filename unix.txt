@@ -1,0 +1,17 @@
+General
+Login session
+Environment variables - purpose
+Sourcing
+Hidden files
+ 
+Shell scripting
+How does a script run
+Shebang line
+Concatenate variables
+Conditional loops
+Grep, find, sed, xargs, exec, pipe commands, etc....
+Interpreter/compiler difference
+Redirecting/Archiving/tar and zip
+ 
+Cron scheduling
+ 
